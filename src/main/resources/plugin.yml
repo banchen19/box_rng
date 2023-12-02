@@ -1,0 +1,8 @@
+name: box_rng
+version: '${project.version}'
+main: org.banchen19.bc.Box_rng
+api-version: '1.16'
+commands:
+  rng_box:
+    description: "null"
+    aliases: rb
